@@ -1,0 +1,13 @@
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\infrastructure\JwtService.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\api\dto\RegisterRequest.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\domain\Role.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\infrastructure\UserDetailsServiceImpl.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\api\controllers\AuthController.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\application\AuthService.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\infrastructure\JwtAuthFilter.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\AuthServiceApplication.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\infrastructure\SecurityConfig.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\api\dto\AuthResponse.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\domain\User.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\api\dto\LoginRequest.java
+C:\Users\fjans\Documents\fintrack\auth-service\src\main\java\com\fintrack\auth\infrastructure\UserRepository.java

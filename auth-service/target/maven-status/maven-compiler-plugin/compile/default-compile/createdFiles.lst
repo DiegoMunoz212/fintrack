@@ -1,0 +1,16 @@
+com\fintrack\auth\api\controllers\AuthController.class
+com\fintrack\auth\api\dto\RegisterRequest$RegisterRequestBuilder.class
+com\fintrack\auth\domain\User$UserBuilder.class
+com\fintrack\auth\infrastructure\UserDetailsServiceImpl.class
+com\fintrack\auth\api\dto\RegisterRequest.class
+com\fintrack\auth\domain\Role.class
+com\fintrack\auth\api\dto\AuthResponse$AuthResponseBuilder.class
+com\fintrack\auth\api\dto\LoginRequest.class
+com\fintrack\auth\application\AuthService.class
+com\fintrack\auth\api\dto\AuthResponse.class
+com\fintrack\auth\infrastructure\SecurityConfig.class
+com\fintrack\auth\infrastructure\UserRepository.class
+com\fintrack\auth\infrastructure\JwtAuthFilter.class
+com\fintrack\auth\AuthServiceApplication.class
+com\fintrack\auth\domain\User.class
+com\fintrack\auth\infrastructure\JwtService.class
